@@ -1,0 +1,10 @@
+Stwórz program, który realizuje wymyślony przez Ciebie problem. 
+Wymagania techniczne programu:
+- typy danych proste i złożone w ujęciu globalnym oraz lokalnym,
+- instrukcji switch, if else, for, while lub ich odpowiedniki,
+- 3 struktur danych (lista, mapa, vector, lub inne wybrane),
+- wydzielenie części programu w funkcje,
+- interakcja programu z człowiekiem,
+- generowanie danych losowych,
+- użycie własnego typu danych,
+- użycie gita jako systemu kontroli wersji,
