@@ -12,7 +12,7 @@ Wymagania techniczne programu:
 - użycie własnego typu danych(klasa, struktura),
 - użycie gita jako systemu kontroli wersji,
 
-Projekty można robić indywidualnie lub w grupie max 4 osób.
+Projekt można robić indywidualnie lub w grupie max 4 osób.
 
 Linki:
 
@@ -46,7 +46,7 @@ IntelliJ IDEA https://www.jetbrains.com/community/education/#students
 Visual Studio Code https://code.visualstudio.com/
 
 
-Przykładowe tematy programów:
+Przykładowe tematy programów (wybierz jedno):
 
 - milionerzy (losowanie pytań z zestawu, możliwość wybrania odpowiedzi, zachowanie przegrana-wygrana),
 
