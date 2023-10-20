@@ -19,7 +19,7 @@ int generate_number_in_range(int start, int end){
 }
 
 char generate_special_char(){
-  return generate_number_in_range(33, 47);
+  return generate_number_in_range(33, 47); //Na podstawie tabeli ASCII
 }
 
 char generate_number(){
@@ -37,7 +37,7 @@ int main(){
                             "2. Duże litery [A-Z]",
                             "3. Liczby [0-9]",
                             "4. Znaki specjalne[&*][{}]",
-			    "0. Koniec"};
+			                      "0. Koniec"};
 			    
 
 
